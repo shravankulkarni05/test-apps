@@ -1,0 +1,23 @@
+{
+    "firmName": "SHAKUNTALA PHYSIOTHERAPY CENTER",
+    "firmLogo": "assets/images/firm-logo.jpeg",
+    "drDetails": {
+        "name": "Dr. Dhanraj Ramchandra Navatre",
+        "profilePic": "assets/images/dn-profile-pic.jpg",
+        "courses": "(B.P.Th)",
+        "degrees": "(Physiotherapist)",
+        "personalDetails": {
+            "email": "dhanrajnavatre204@gmail.com",
+            "wpBusiness": "https://wa.me/message/ZYOSLYUYKXATI1",
+            "mobNbrs": [
+                "+91-7972019431",
+                "+91-9561203428"
+            ],
+            "primaryMobNbr": "91-7972019431"
+        }
+    },
+    "shopDetails": {
+        "addr": "Infront of Aavishkar Collection, Mangalwedhekar Complex, Station Rd, behind Bank of Baroda, Pandharpur, Maharashtra 413304",
+        "map": "https://www.google.com/maps/search/?api=1&query=Shakuntala+Physiotherapy+Center"
+    }
+}
